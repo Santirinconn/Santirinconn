@@ -10,3 +10,9 @@
 | Pwd     | Ubica la ruta del directorio                               |
 | Ls      | Sirve para ver los contenidos de los directorios           |
 |Whoami   | Para ver qué usuario tiene la sesión activa en ese momento |
+
+# Comandos alias recomendados #
+| Alias            | Descripción        |
+|------------------|--------------------|
+| Alias cl="clear" | Limpia el terminal |
+| Alias rm="trash" | Elimina archivos   |
