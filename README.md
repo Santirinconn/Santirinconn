@@ -87,9 +87,9 @@ Actualmente estoy fortaleciendo mis bases técnicas y construyendo proyectos pr�
 
 ## 📫 Cómo contactarme
 
-- ✉️ Email: **[tu correo aquí]**  
-- 🔗 LinkedIn: **[tu enlace aquí]**  
-- 🐱 GitHub: **https://github.com/tu-usuario**
+- ✉️ Email: **santiagorinconn@gmail.com**  
+- 🔗 LinkedIn: **www.linkedin.com/in/santiago-rincón-sánchez-206105244**  
+- 🐱 GitHub: **[https://github.com/tu-usuario](https://github.com/Santirinconn**
 
 ---
 
