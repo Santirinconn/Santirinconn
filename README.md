@@ -89,7 +89,7 @@ Actualmente estoy fortaleciendo mis bases técnicas y construyendo proyectos pr�
 
 - ✉️ Email: **santiagorinconn@gmail.com**  
 - 🔗 LinkedIn: **www.linkedin.com/in/santiago-rincón-sánchez-206105244**  
-- 🐱 GitHub: **[https://github.com/tu-usuario](https://github.com/Santirinconn**
+- 🐱 GitHub: **https://github.com/Santirinconn**
 
 ---
 
